@@ -1,0 +1,9 @@
+{
+  "name": "@mist/modules",
+  "version": "0.1.0",
+  "description": "Solidity interfaces and libraries used for MIST and interacting with it",
+  "author": "geovgy",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
