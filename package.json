@@ -1,9 +1,19 @@
 {
-  "name": "@mist/modules",
+  "name": "@usemist/modules",
   "version": "0.1.0",
-  "description": "Solidity interfaces and libraries used for MIST and interacting with it",
+  "description": "Solidity interfaces and libraries used for MIST smart contracts and interacting with them.",
   "author": "geovgy",
   "main": "index.js",
   "license": "MIT",
-  "private": true
+  "homepage": "https://github.com/ModularIncognitoSTack/modules#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModularIncognitoSTack/modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ModularIncognitoSTack/modules/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -6,9 +6,9 @@ Here is how to install the modules as a dependency in your project (e.i. hardhat
 
 For Hardhat:
 ```bash
-npm install @mist/modules
+npm install @usemist/modules
 # or
-yarn add @mist/modules
+yarn add @usemist/modules
 ```
 
 For Foundry:
